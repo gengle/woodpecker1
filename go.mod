@@ -16,7 +16,7 @@ require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/memberlist v0.5.3
 	github.com/json-iterator/go v1.1.12
-	github.com/klauspost/compress v1.17.9
+	github.com/klauspost/compress v1.18.7
 	github.com/labstack/gommon v0.3.0
 	github.com/minio/minio-go/v7 v7.0.73
 	github.com/panjf2000/ants/v2 v2.11.3
